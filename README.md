@@ -1,5 +1,6 @@
 # File-Ingestion Project
 Compares different approaches to loading and processing large CSV files.
+There are routines in FileIngestor.ipynb
 
 
 ## Overview
