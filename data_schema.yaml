@@ -1,0 +1,10 @@
+columns:
+  abstract: string
+  authors: string
+  categories: string
+  id: int64
+  title: string
+  update_date: datetime64[ns]
+file_properties:
+  encoding: utf-8
+  separator: ','
