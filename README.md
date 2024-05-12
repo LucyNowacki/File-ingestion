@@ -19,7 +19,9 @@ This project demonstrates various methods to handle, process, and validate large
 - GitHub for online repository hosting
 
 ## Setup and Installation
+Optionally you should integrate Python with the Hadoop connection
 Ensure you have Python installed on your system, along with pandas and PyYAML libraries. You can install the required packages using pip:
 
+
 ```bash
-pip install pandas pyyaml
+pip install pandas pyyaml modin pyspark parquet polars datatable
